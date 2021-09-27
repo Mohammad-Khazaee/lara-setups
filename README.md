@@ -11,10 +11,10 @@ laravel team no longer supports laravel ui package so lara setups is a very good
 
 ```bash
 // locally
-composer require mohammadkhazaee/lara-setups --dev
+composer require mohammadkhazaee/larasetups --dev
 
 // root
-composer require mohammadkhazaee/lara-setups 
+composer require mohammadkhazaee/larasetups 
 ```
 ### bootstrap & vue scaffolding
 Once the `larasetups` package has been installed, you may install the frontend scaffolding using the `install:` Artisan command:
